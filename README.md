@@ -1,5 +1,5 @@
 # Portofolio
 
-# 👋 Hello! I'm Vanessa Carlinsia
+## 👋 Hello! I'm Vanessa Carlinsia
 
 ## 🌱 About Me
